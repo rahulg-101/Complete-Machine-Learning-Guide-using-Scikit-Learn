@@ -86,10 +86,13 @@ The course focuses on practical implementation of machine learning algorithm usi
         - `AdaBoost`
         - `GradientBoosting`
         - `XGBoost`
-       
+
 9. ML Practice Section 9
     - Clustering
         - `K Means`
         - `Heirarchical Agglomerative Clustering (HAC)`
+     
+10. MLP 10 - Multilayer_perceptron_classifier
+    - Multilayer_perceptron_classifier
 
 ## Thank you! If you enjoyed the contents of this repository, please consider giving it a Star!
