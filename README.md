@@ -15,12 +15,12 @@ The course focuses on practical implementation of machine learning algorithm usi
 - MNIST Digit recognition for classification tasks (Notebook 5 onwards)
 
 ##### Table of contents
-1. ML Practice Section 1 (Regression Problems Start here)
+1. W1 - Overview of End To End Implementation (Regression Problems Start here)
     - Data loading
     - Basic data loading/generation features(load, fetch, make)
     - End to End Implementation of a Regression Problem
 
-2. ML Practice Section 2
+2. W2 - Data Preprocessing
     - Data preprocessing
     - Data cleaning
     - Feature Extraction - `DictVectorizer`
@@ -40,30 +40,30 @@ The course focuses on practical implementation of machine learning algorithm usi
     - Hyper Parameter tuning and Cross validation - `GridSearchCV`, `RandomizedSearchCV`
     - Handling imbalance(imblearn) - `RandomUnderSampler`, `RandomOverSampler`, `SMOTE`
 
-3. ML Practice Section 3
+3. W3 - Baseline Regression Models
     - Baseline models
     - How to build simple baseline models
     - Linear Regression
         - Normal equation method(`LinearRegression`)
         - Iterative optimisation method(`SGDRegressor`)
 
-4. ML Practice Section 4
+4. W4 - Regularized Regression and Hyperparameter Tuning
     - California Housing Prediction
     - Exploratory data Analysis
     - Regularised Linear regression and Hyper parameter tuning
     - `Polynomial`, `Ridge` & `Lasso` Regressions
 
-5. ML Practice Section 5 (Classification Problems Start here)
+5. W5 - Classification & Evaluation Metrics (Classification Problems Start here)
     - Perceptron
         - Binary Classification
         - Multiclass Classification
         - Evaluation Metrics - `Confusion Matrix`, `Precision`,`Recall`, `Precision & Recall Tradeoff`, `ROC Curve`
 
-6. ML Practice Section 6 
+6. W6 - Logistic and Naive Bayes Classification
     - `Logistic regression`
     - `Naive Bayes models`
 
-7. ML Practice Section 7
+7. W7 - Classification Models and Large Scale ML
     - Training Large Scale ML Models **`(Separate Notebook)`**
         - Learning in batches(partial_fit())
         - Vectorization Techniques - `CountVectorizer`,`HashingVectorizer`
@@ -74,7 +74,7 @@ The course focuses on practical implementation of machine learning algorithm usi
     - `Softmax Regression`
     - `Support Vector Machines`
 
-8. ML Practice Section 8
+8. W8 - Trees and Ensemble Techniques
     - Decision Trees **`(8a)`**
       - `DecisonTreeClassifier`
       - `DecisonTreeRegressor`
@@ -87,12 +87,12 @@ The course focuses on practical implementation of machine learning algorithm usi
         - `GradientBoosting`
         - `XGBoost`
 
-9. ML Practice Section 9
+9. W9 - Clustering
     - Clustering
         - `K Means`
         - `Heirarchical Agglomerative Clustering (HAC)`
      
-10. MLP 10 - Multilayer_perceptron_classifier
+10. W10 - Multi_Layered_Perceptron
     - Multilayer_perceptron_classifier
 
 ## Thank you! If you enjoyed the contents of this repository, please consider giving it a Star!
